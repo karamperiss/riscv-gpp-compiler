@@ -1,2 +1,16 @@
+# Python caches
 __pycache__/
 *.pyc
+
+# Virtual Environments (αν χρησιμοποιείς)
+venv/
+env/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Compiler output files (Τα αρχεία που παράγει ο compiler σου)
+*.int
+*.sym
+*.asm
