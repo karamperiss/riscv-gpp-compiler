@@ -21,7 +21,7 @@ Below is the state transition diagram of the automaton designed for this project
 
 <img src="docs/FiniteStateAutomaton.png" alt="Greek++ DFA" width="750">
 
-## ⚙️ Architecture & Compilation Pipeline
+##  Architecture & Compilation Pipeline
 
 The compiler is highly modular, strictly following the theoretical phases of code translation:
 
@@ -113,6 +113,6 @@ Here is a simple example of a Greek++ program calculating the double of a number
 τέλος_προγράμματος
 ```
 
-## 👥 Authors
+##  Authors
 * **[Panagiotis Karamperis](https://github.com/karamperiss)**
 * **[Georgios Vlatas](https://github.com/VlatasGiorgos)**
