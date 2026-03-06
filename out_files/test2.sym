@@ -1,0 +1,13 @@
+Symbol Table:
+
+Scope 0:
+prog : τεστ2
+α : Type: var , Offset: 12
+β : Type: var , Offset: 16
+t@1 : Type: temp , Offset: 20
+α : Type: temp , Offset: 24
+t@2 : Type: temp , Offset: 28
+t@3 : Type: temp , Offset: 32
+t@4 : Type: temp , Offset: 36
+t@5 : Type: temp , Offset: 40
+t@6 : Type: temp , Offset: 44

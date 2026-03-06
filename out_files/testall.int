@@ -1,0 +1,14 @@
+1: begin_block , syn , _ , _
+2: := , α , _ , β
+3: retv , β , _ , _
+4: end_block , syn , _ , _
+5: begin_block , par , _ , _
+6: := , 2 , _ , α
+7: par , α , CV , _
+8: par , β , ref , _
+9: par , t@1 , RET , _
+10: call , syn , _ , _
+11: out , t@1 , _ , _
+12: out , β , _ , _
+13: halt , _ , _ , _
+14: end_block , par , _ , _

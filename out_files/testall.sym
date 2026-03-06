@@ -1,0 +1,15 @@
+Symbol Table:
+
+Scope 1:
+func : syn
+α : Type: var , Offset: 12
+β : Type: var , Offset: 16
+α : Type: temp , Offset: 20
+β : Type: temp , Offset: 24
+
+Scope 0:
+prog : par
+α : Type: var , Offset: 12
+β : Type: var , Offset: 16
+syn : Type: func, FrameLength: 28,startQuad: 1 , in , io
+t@1 : Type: temp , Offset: 20

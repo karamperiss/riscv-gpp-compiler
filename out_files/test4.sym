@@ -1,0 +1,7 @@
+Symbol Table:
+
+Scope 0:
+prog : τεστ
+age : Type: var , Offset: 12
+creditScore : Type: var , Offset: 16
+income : Type: var , Offset: 20
